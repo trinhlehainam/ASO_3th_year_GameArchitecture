@@ -1,4 +1,6 @@
 -shooting
 -trail
+-dissolve
+-texture
 -scoreboard
 -socket △

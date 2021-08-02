@@ -1,0 +1,4 @@
+-shooting
+-trail
+-scoreboard
+-socket △
